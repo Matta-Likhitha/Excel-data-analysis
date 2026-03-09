@@ -1,8 +1,5 @@
 Excel Data Analysis & KPI Dashboard
 
-A hands-on data analysis project built entirely in Microsoft Excel, demonstrating end-to-end data processing from raw data cleaning through to an interactive KPI dashboard with dynamic filtering.
-
-
 Project Overview
 
 This project showcases core Excel data analysis skills applied to a real dataset, covering data preparation, analysis, and interactive visualisation — all within a single Excel workbook.
